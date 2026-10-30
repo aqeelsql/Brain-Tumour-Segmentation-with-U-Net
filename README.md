@@ -80,7 +80,7 @@ Given an MRI slice, each model predicts a binary mask that marks the tumour regi
 **Learning curves**
 
 ![Learning curves](assets/renet-reults.webp)
-![Learning curves](assets/unet-reults.webp)
+![Learning curves](assets/unet-reults.png)
 
 **Predictions: MRI, ground truth, probability heatmap, predicted contours**
 
